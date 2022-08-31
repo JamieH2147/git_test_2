@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: aliceblue;
+}
+
+h1 {
+  text-transform: uppercase;
+  color: skyblue;
+  text-align: center;
+}
+
+p {
+  line-height: 1.6;
+  text-align: center;
+}
